@@ -1,0 +1,10 @@
+{
+  "locals": {
+    "title": "Nos sonhos da cidade - FVM2014"
+  },
+  "markdown": {
+    "gfm": true,
+    "tables": true,
+    "smartypants": true
+  }
+}
