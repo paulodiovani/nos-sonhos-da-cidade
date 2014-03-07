@@ -1,0 +1,25 @@
+doctype html
+html(lang='en')
+  include head.jade
+  body
+    div.container
+
+      div.row
+        div.col-md-12
+          div.page-header
+            h1= page.title
+
+      div.row
+        div.col-md-9
+          div.jumbotron
+            h1= locals.title
+            address por <a href="#{page.metadata.authorUrl}">#{page.metadata.author}</a>
+            p Um jogo narrativo sobre descobrimento, problemas sociais e realidades alternativas.
+            p: a.btn.btn-primary.btn-lg(role="button", href="introducao.html") Descubra&hellip;
+
+          != page.html
+
+        div.col-md-3
+          include menu.jade
+
+      include footer.jade

@@ -1,10 +1,12 @@
 {
   "locals": {
-    "title": "Nos sonhos da cidade - FVM2014"
+    "title": "Nos sonhos da cidade"
   },
   "markdown": {
     "gfm": true,
     "tables": true,
     "smartypants": true
-  }
+  },
+  "output": "../fvm2014-nos-sonhos-da-cidade-out",
+  "baseUrl": "./"
 }
