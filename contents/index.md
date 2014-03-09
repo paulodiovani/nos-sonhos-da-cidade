@@ -13,6 +13,16 @@ Minha intenção é escrever um RPG de narrativa compartilhada e construção co
 
 Provavelmente será um jogo investigativo com elementos de _boardgames_ ("tabuleiro", cartas, fichas...), mas ainda é muito cedo para dizer.
 
+## O que vou precisar para jogar
+
+* 2 a 5 amigos
+* Um baralho de cartas (de pôker) comum
+* Três (ou mais) dados de seus lados (_d6_)
+* Lápis ou canetas
+* Papéis para anotações diversas
+* Papéis descartáveis para escrever, dobrar e rasgar
+    * Opcionalmente você pode utilizar peças de lego ou quaisquer blocos de montar
+
 ## RPG no _GitHub_
 
 Decidi publicar este jogo no GitHub, me beneficiando do serviço de hospedagem de páginas, porque precisava publicá-lo num formato de website, e não como um blog. Embora ainda deva divulgar o andamento do projeto [em meu blog pessoal][1] (uma vez que o [Ent Bonsai](http://entbonsai.com) está passando por reformas).
