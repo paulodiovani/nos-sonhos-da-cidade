@@ -7,11 +7,11 @@ template: default-jumbo.jade
 
 # para o fvm2014...
 
-_"Nos sonhos da cidade"_ é a minha participação no [FVM2014](http://blog.diovani.com/post/78224829898/temas-e-metas-alternativas-para-o-fvm2014) ou, pelo menos, um esboço do tema que usarei em meu jogo.
+_"Nos sonhos da cidade"_ é a minha participação no [FVM2014](http://blog.diovani.com/post/78224829898/temas-e-metas-alternativas-para-o-fvm2014).
 
-Minha intenção é escrever um RPG de narrativa compartilhada e construção coletiva de cenário onde os jogadores criarão uma visão obscura de sua própria cidade (ou cidades), transformando lugares conhecidos e acontecimentos recentes  de seu meio em cenário e desafios para se divertirem.
+Minha intenção é escrever um RPG de narrativa compartilhada e construção coletiva de cenário onde os jogadores criarão uma visão obscura de sua própria cidade (ou cidades), transformando lugares conhecidos e acontecimentos recentes de seu meio em cenário e desafios para se divertirem.
 
-Provavelmente será um jogo investigativo com elementos de _boardgames_ ("tabuleiro", cartas, fichas...), mas ainda é muito cedo para dizer.
+Provavelmente será um jogo investigativo com elementos de _boardgames_ ("tabuleiro", cartas, fichas...).
 
 ## Temas e meta escolhidos
 
@@ -24,7 +24,30 @@ Além destes, decidi por utilizar a seguinte _Meta alternativas de design_.
 
 * **O Limite é Tênue:** Crie um jogo no qual os fatores externos a mesa (dia da semana, condição do clima, notícias recentes, flutuação da bolsa, etc.) influenciam significativamente nas mecânicas e na narrativa. Tente buscar referências nos jogos de realidade aumentada (ARGs), mas focando sempre na narrativa analógica.
 
-Como ainda está em fase inicial de desenvolvimento, mesmo estes temas e meta podem mudar, ou eu posso mudar o modo como eles são apĺicados ao jogo (especialmente dependendo dos comentários que receber).
+Como ainda está em desenvolvimento, mesmo estes temas e meta podem mudar, ou eu posso mudar o modo como eles são aplicados ao jogo (especialmente dependendo dos comentários que receber).
+
+# Inspirações e referências
+
+Minhas insírações para a criação deste jogo, que também podem servir de inspiração para mestres ensandecidos que desejem testar meu jogo.
+
+## Quadrinhos
+
+* Sandman -- em especial uma história que não consigo lembrar o nome, que fala justamente do sonho de uma cidade. Esta é, assumidamente, minha primeira e maior inspiração.
+
+## Filmes
+
+* Cidade das sombras
+* Inseption
+* Sucker Punch
+
+## Games
+
+* LIMBO -- quem não conhece este jogo, pára o que estiver fazendo, compre e jogue. E não esqueça de apagar as luzes do quarto.
+
+## Outros RPGs
+
+* Busca Final
+* Este Corpo Mortal
 
 # RPG no _GitHub_
 
