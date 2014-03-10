@@ -16,46 +16,46 @@ Claro, se nenhum dos estereótipos da lista a seguir lhe parecer atraente, você
 ## Estereótipos de personagens
 
 <!--
-|   | J                        | Q                    | K                 |
-| - | ------------------------ | -------------------- | ----------------- |
-| ♠ | Soldado ou Policial raso | Juíz/oficial militar | Prefeito          |
-| ♦ | Mercador                 |                      | Ricasso da cidade |
-| ♣ | Camponês                 | Druída               | Líder espiritual  |
-| ♥ | Marinheiro               |                      | Capitão           |
+ |   | J                        | Q                    | K                      |
+ | - | ------------------------ | -------------------- | ---------------------- |
+ | ♠ | Soldado ou Policial raso | Juíz/oficial militar | Prefeito               |
+ | ♦ | Mercador                 | Membro de guilda     | Nobre/Ricaço da cidade |
+ | ♣ | Camponês                 | Druída               | Líder espiritual       |
+ | ♥ | Pescador                 | Marinheiro           | Capitão                |
 -->
 
 <table class="table table-bordered">
     <thead>
         <tr>
             <th></th>
-            <th>J</th>
-            <th>Q</th>
-            <th>K</th>
+            <th>J (Valete)</th>
+            <th>Q (Dama)</th>
+            <th>K (Rei)</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>♠</td>
+            <td>♠ (Espadas)</td>
             <td>Soldado ou Policial raso</td>
-            <td>Juíz/oficial militar</td>
+            <td>Juíz/Oficial militar</td>
             <td>Prefeito</td>
         </tr>
         <tr>
-            <td>♦</td>
+            <td>♦ (Ouros)</td>
             <td>Mercador</td>
-            <td></td>
-            <td>Ricasso da cidade</td>
+            <td>Membro de guilda</td>
+            <td>Nobre/Ricaço da cidade</td>
         </tr>
         <tr>
-            <td>♣</td>
+            <td>♣ (Paus)</td>
             <td>Camponês</td>
             <td>Druída</td>
             <td>Líder espiritual</td>
         </tr>
         <tr>
-            <td>♥</td>
+            <td>♥ (Copas)</td>
+            <td>Pescador</td>
             <td>Marinheiro</td>
-            <td></td>
             <td>Capitão</td>
         </tr>
     </tbody>
@@ -67,7 +67,58 @@ Por exemplo, um Valete (J) de Espadas (♠) representa um _soldado ou policial s
 
 Escolhida a carta, dê um nome ao seu personagem (ou escolha uma alcunha, se preferir, o que importa é como chamá-lo), descreva sua aparência para os demais, e pronto.
 
-# As cartas restantes
+<div class="well">
+    **Varie os naipes:**
+    Como dica, ao escolher o estereótipo de seu personagem, converse com os demais jogadores para fazer um grupo variado, de preferência com uso de todos os 4 naipes. Isso dará ao grupo uma versatilidade maior para a exploração e vencer os desafios.
+</div>
+
+### Como usar os personagens
+
+O estereótipo dos personagens serão relevantes tanto na narrativa como quando ocorrerem conflitos. Basicamente, cada naipe indica o tipo de ambiente em que o PJ se sairá melhor e o valor (a letra) indica o nível de influência deste sobre os NPCs e o poder dele para resolver conflitos.
+
+Assim, um _Oficial militar_ (**Q♠**) tem poder de comando sobre a milícia de uma cidade, mas não sobre outros oficiais ou o _Prefeito_.
+
+#### ♠ (Espadas)
+
+Personagens do naipe ♠ (Espadas) são influentes em ambientes civilizados, especialmente cidades com grande avanço tecnológico.
+
+Um personagem deste naipe tem conhecimento sobre leis, cadeia de comando e infraestrutura do local, e tem poder para prender e atuar criminosos e até resolver conflitos políticos ou sociais.
+
+* **J♠** Recebe 1 (um) dado em conflitos de caráter criminalista ou político.
+* **Q♠** Recebe 2 (dois) dados em conflitos de caráter criminalista ou político.
+* **K♠** Recebe 3 (três) dados em conflitos de caráter criminalista ou político.
+
+#### ♦ (Ouros)
+
+Personagens do naipe ♦ (Ouros) são influentes no ramo de negócios e possuem conhecimento sobre recursos, moedas e rotas de comércio.
+
+Este é o PJ que sabe barganhar, onde adquirir tal produto ou serviço e até mesmo sobre mercado negro e tráfico. É ele também que possui diversos contatos com os quais pode obter diversas informações, incluindo prostitutas e mendigos.
+
+* **J♦** Recebe 1 (um) dado em conflitos envolvendo negociação ou obtenção de informações
+* **Q♦** Recebe 2 (dois) dados em conflitos envolvendo negociação ou obtenção de informações
+* **K♦** Recebe 3 (três) dados em conflitos envolvendo negociação ou obtenção de informações
+
+#### ♣ (Paus)
+
+Personagens do naipe de ♣ (Paus) são especialistas em sobrevivência em ambientes selvagens.
+
+Também são influentes com civilações pouco evoluídas, humanas ou não-humanas e inclusive elfos e criaturas fantásticas.
+
+* **J♣** Recebe 1 (um) dado em conflitos em ambientes selvagens ou com NPCs provenientes destes
+* **Q♣** Recebe 2 (dois) dados em conflitos em ambientes selvagens ou com NPCs provenientes destes
+* **K♣** Recebe 3 (três) dados em conflitos em ambientes selvagens ou com NPCs provenientes destes
+
+#### ♥ (Copas)
+
+Persoangens do naipe de ♥ (Copas) estão acostumados a viver e trabalhar sobre a água, sabendo como obter alimento e navegar.
+
+Este personagens conhecem rotas de navegação, curso de rios e espécies marinhas em geral, até mesmo espécies inteligentes.
+
+* **J♥** Recebe 1 (um) dado em conflitos envolvendo navegação ou sobrevivência em rios e mares
+* **Q♥** Recebe 2 (dois) dados em conflitos envolvendo navegação ou sobrevivência em rios e mares
+* **K♥** Recebe 3 (três) dados em conflitos envolvendo navegação ou sobrevivência em rios e mares
+
+## As cartas restantes
 
 Como cada jogador obteve duas cartas, sobrará uma em sua mão.
 

@@ -41,9 +41,52 @@ Embaralhe separadamente as cartas que sobraram (do A ao 10). Este será o **Bara
 
 Cada jogador (menos o MJ) deve comprar duas cartas do **Baralho de construção**.
 
-O MJ, por sua vez, deve comprar 9 cartas do **Baralho de desafio** e dispô-las na mesa com a face para baixo, montando uma grade 3x3. Este será o **mapa da cidade**.
-
 Vamos detalhar melhor dos dois baralhos de jogo.
+
+## Naipes e seus significados
+
+Cada naipe representa um tipo de ambiente dentro do jogo. Para os PJs, este ambiente tem haver com a ocupação do personagem, para as áreas da cidade, representa o ambiente desta área.
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Naipe</th>
+            <th>Tipo de ambiente</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>♠ (Espadas)</td>
+            <td>
+                **Ferro e concreto:** 
+                Ambiente predominante em cidades com grande avanço tecnológico.
+            </td>
+        </tr>
+        <tr>
+            <td>♦ (Ouros)</td>
+            <td>
+                **Recursso naturais:** 
+                Área de exploração de recursos, especialmente minérios.
+            </td>
+        </tr>
+        <tr>
+            <td>♣ (Paus)</td>
+            <td>
+                **Selvagem:** 
+                Ambiente pouco ou não explorado, de campos e bosques à florestas.
+            </td>
+        </tr>
+        <tr>
+            <td>♥ (Copas)</td>
+            <td>
+                **Água:** 
+                Área com predominância de água. Pode ser um lago, rio ou mesmo o oceano.
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+É importante ter em mente durante todo o jogo qual tipo de ambiente cada naipe representa, possibilitando um compreendimento rápido do que há de se encontrar em cada área e do que se pode obter desta.
 
 ## Baralho de construção
 
@@ -51,8 +94,10 @@ Constituído das cartas de figuras do baralho. Isto é, o _Valete (J)_, _Dama (Q
 
 O **Baralho de construção** terá um total de 12 cartas e será usado tanto para construir a cidade do jogo -- uma versão onírica da cidade (ou uma mistura das cidades) onde os jogadores moram -- como para a criação de personagens jogadores (PJs).
 
-<div class="well">**Regra opcional:**
-Você pode manter os curingas junto ao **Baralho de construção** de modo que obter um curinga permite ao jogador escolher o seu _Estereótipo de personagem_ ([veja adiante](criacao_de_personagens.html)), mas guarde isso para sessões futuras, caso os estereótipos pré-definidos tornem-se um fator mais limitante do que inspirador.</div>
+<div class="well">
+    **Regra opcional:**
+    Você pode manter os curingas junto ao **Baralho de construção** de modo que obter um curinga permite ao jogador escolher o seu _Estereótipo de personagem_ ([veja adiante](criacao_de_personagens.html)), mas guarde isso para sessões futuras, caso os estereótipos pré-definidos tornem-se um fator mais limitante do que inspirador.
+</div>
 
 Na fase de criação de personagens, na primeira sessão de jogo, cada jogador deverá comprar duas castas deste baralho.
 
@@ -63,11 +108,3 @@ Na fase de construção da cidade, apenas o MJ deverá comprar uma carta deste b
 Constituído das cartas de números do baralho, incluindo o às (A) -- que vale apenas 1 neste jogo.
 
 O **Baralho de desafio** terá um total de 40 cartas e será usado para definir o poder dos _pesadelos_ e como dificuldade dos testes para os PJs.
-
-Na preparação do jogo, o MJ deve comprar 9 cartas deste barálho e dispô-las na mesa, com a face voltada para baixo, de forma a desenhar uma grade 3x3. Este será o **mapa da cidade**.
-
-## Mapa da cidade
-
-O mapa da cidade é composto por 9 cartas numa grade de 3x3. Cada carta corresponde à uma área da cidade a ser explorada pelos PJs.
-
-Inicialmente, apenas algumas dessas 9 áreas serão usadas no jogo, na verdade uma por jogador. Mas mais poderão surgir durante o andamento da história. Mesmo o total de 9 áreas poderá aumentar em jogos mais longos, caso o grupo deseje realizar uma campanha mais longa e explorar locais diferentes.
