@@ -5,8 +5,6 @@ authorUrl: http://blog.diovani.com
 template: default.jade
 ---
 
-# Testes e conflitos
-
 Testes e conflitos, em _Nos sonhos da cidade_, tem por objetivo determinar o rumo da história, e não necessariamente sucesso ou fracasso contra uma oposição. Em outras palavras, o resultado de um teste deve ter significado na história e decidir o que acontecerá à seguir.
 
 _Deixe o teste definir o rumo da história_.

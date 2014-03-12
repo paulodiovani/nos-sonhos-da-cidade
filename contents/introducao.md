@@ -5,8 +5,6 @@ authorUrl: http://blog.diovani.com
 template: default.jade
 ---
 
-# Introdução
-
 Sua cidade está morrendo...
 
 Um mal se espalha por seu corpo -- uma doença -- entupindo suas veias, corroendo seus órgãos e mitigando a vida de cada organismo que nela habita. A cidade sofre e os homens não percebem isso ou, se percebem, nada fazem, como se ignorassem que são apenas hospedeiros dela, apenas vermes e bactérias que vivem em simbiose com a mesma.

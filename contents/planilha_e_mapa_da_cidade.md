@@ -5,8 +5,6 @@ authorUrl: http://blog.diovani.com
 template: default.jade
 ---
 
-# Planilha e mapa da cidade
-
 Você como jogador, estará interpretando uma parte do sonho da cidade. Uma parte bem consciente, sim, capaz de raciocinar, ter ideias, realizar façanhas e, principalmente, perceber que alguma coisa está errada, perceber que a cidade está doente.
 
 Contudo, este personagem, esta parte do sonho que é o PJ, não é importante para a história...

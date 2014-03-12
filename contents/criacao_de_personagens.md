@@ -5,8 +5,6 @@ authorUrl: http://blog.diovani.com
 template: default.jade
 ---
 
-# Criação de personagens
-
 Apesar deste capítulo se chamar de criação de personagens, você não estará propriamente criando um personagem nesta etapa, mas sim escolhendo um estereótipo pré-definido de acordo com a lista abaixo. Isto porque o único personagem que realmente fará parte da história é a Cidade, os PJs são apenas manifetações dos sonhos da Cidade.
 
 Claro, se nenhum dos estereótipos da lista a seguir lhe parecer atraente, você pode criar seu próprio, mas tenha em mente o impacto (da função/profissão) que ele causará nos NPCs (do inglês, _non player characters_, ou personagens não jogadores), pois isso será relevante no jogo.

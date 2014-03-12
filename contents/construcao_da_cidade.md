@@ -5,8 +5,6 @@ authorUrl: http://blog.diovani.com
 template: default.jade
 ---
 
-# Construção da cidade
-
 O processo de _Construção da cidade_, tem por objetivo criar uma versão onírica da cidade onde os jogadores moram com seus problemas ou acontecimentos recentes, e se dará em duas partes.
 
 1. Construção das áreas da cidade
