@@ -21,3 +21,22 @@ blockquote {
 /* e adicionando alguns enfeites */
 blockquote em, blockquote i { font-weight: bold; }
 blockquote strong, blockquote b { font-weight: bolder; }
+
+/* Tabela usada como mapa da cidade 
+    define a largura máxima das cartas */
+table.citymap td {
+    position: relative;
+    width: 136px;
+}
+
+table.citymap img {
+    width: 120px;
+}
+
+table.citymap td .label {
+    position: absolute;
+    top: 50%;
+    margin-top: -20px;
+    width: 120px;
+    white-space: normal;
+}
