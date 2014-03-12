@@ -29,6 +29,8 @@ Todos os testes em _Nos sonhos da cidade_ são realizados com a rolagem 1 a 3 de
 
 Basicamente dois tipos de testes serão feitos durante o jogo, testes para _superar desafios_, e _conflitos com pesadelos_.
 
+<img class="img-responsive img-circle" src="img/cards-dice-485x728.jpg" alt="cards-dice-485x728">
+
 ### Preciso mesmo fazer um teste?
 
 Dado que cada pesonagem possui qualificação em determinada área, muitas vezes um teste pode ser evitado, e o MJ apenas indica que o PJ obteve sucesso ao tentar superar um desafio.
