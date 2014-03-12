@@ -11,3 +11,13 @@ table th {
 table td {
     padding: 0 8px;
 }
+
+/* restaurando o tamanho da fonte de citações */
+blockquote {
+    font-size: 1em;
+    font-style: italic;
+}
+
+/* e adicionando alguns enfeites */
+blockquote em, blockquote i { font-weight: bold; }
+blockquote strong, blockquote b { font-weight: bolder; }
