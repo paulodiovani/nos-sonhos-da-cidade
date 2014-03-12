@@ -1,5 +1,5 @@
 ul.nav.nav-pills.nav-stacked
-  li(class=page.url.indexOf("index.html") >= 0?"active":""): a(href="index.html") Sobre o jogo
+  li(class=page.url.match(/\/$/) || page.url.indexOf("index.html") >= 0?"active":""): a(href="index.html") Sobre o jogo
   li(class=page.url.indexOf("introducao.html") >= 0?"active":""): a(href="introducao.html") Introdução
   li(class=page.url.indexOf("preparacao.html") >= 0?"active":""): a(href="preparacao.html") Preparação
   li(class=page.url.indexOf("criacao_de_personagens.html") >= 0?"active":""): a(href="criacao_de_personagens.html") Criação de personagens

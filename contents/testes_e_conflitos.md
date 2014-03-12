@@ -29,7 +29,7 @@ Todos os testes em _Nos sonhos da cidade_ são realizados com a rolagem 1 a 3 de
 
 Basicamente dois tipos de testes serão feitos durante o jogo, testes para _superar desafios_, e _conflitos com pesadelos_.
 
-## Preciso mesmo fazer um teste?
+### Preciso mesmo fazer um teste?
 
 Dado que cada pesonagem possui qualificação em determinada área, muitas vezes um teste pode ser evitado, e o MJ apenas indica que o PJ obteve sucesso ao tentar superar um desafio.
 
@@ -91,4 +91,65 @@ Note os possíveis resultados à seguir:
 
 # Relíquias
 
-<!-- todo... -->
+**Relíquias** são armas, equipamentos, itens mágicos, habilidades... Enfim, qualquer coisa que possa ajudar os PJs a vencer desafios.
+
+Elas devem ser obitas em buscas adicionais durante a história, como prêmio por ajudar NPCs, dedicação em aprender algo novo, ou simplesmente visitar certo lugar. Generalizando, sempre que algum objetivo principal (vencer um Pesadelo, especialmente) for impossível para as habilidades atuais dos personagens, a solução é procurar uma relíquia que possa ajudar na tarefa.
+
+Sempre que um PJ obtiver uma **Relíquia**, este deve comprar uma carta do **Baralho de desafio** e guardá-la em sua mão. Em qualquer teste ou conflito em que este PJ se envolver posteriormente, ele pode usar a Relíquia para adicionar seu valor ao teste -- o uso da relíquia pode ser declarado após a rolagem dos dados.
+
+Em vias de regra, as Relíquias são a compensação da dificuldade de superar os valores de poder (das cartas) com apenas as habilidades (os dados) dos PJs. Contudo, deve-se ter alguns cuidados ao incluir Relíquias na história.
+
+
+> Ex.
+>
+> O PJ de Jéssica esta enfrentando o Pesadelo que transformava as crianças em plantas na Escola abandonada, uma máquina demoníaca que espalha um névoa na escola que, ao tocar as pessoas, as transforma lentamente em plantas.
+>
+> As três _Cartas de poder_ do Pesadelo são 7♠ 2♠ 4♥, dando um total de 13. Jéssica rola 6 + 2 + 1, o que não é suficiente. Porém, numa busca anterior, seu PJ adquiriu a Relíquia _Mascara hospitalar_ ao ajudar uma enfermeira. A máscara previne os danos da névoa quando usada, o dá à PJ de Jéssica mais tempo para sabotar a máquina.
+>
+> Jéssica diz que vai usar sua Relíquia, colocando a máscara enquanto desconecta os cabos da máquina. A carta da Relíquia é um 5♣, que soma aos dados e garante um total de 14, agora suficiente para vencer o Conflito.
+
+## Regras e dicas sobre Relíquias
+
+* **Relíquias fazem parte da história**
+
+    Evite colocar Relíquias em jogo apenas mecanicamente, elas não são simples itens ou armas mágicas que podem ser compradas numa loja qualquer.
+
+    Para obter uma Relíquia os PJs devem se aventurar numa nova busca -- de preferência pequena, que não dure muito mais do que 15 ou 20 minutos, mas ainda assim é uma busca. -- É responsabilidade do MJ deixar claro que busca é esta, ou pelo menos dar algumas dicas.
+
+    Uma boa opção para receber relíquias é favores devidos aos PJs por NPCs após, por exemplo, livrar uma área de seu Pesadelo. Outra boa opção é forçar os PJs a se moverem para outra área com um tipo de ambiente diferente, como buscar ferramentas numa cidade grande (♠) para escavar uma antiga mina (♦).
+
+    O importante é dar significado para as Relíquias, tornando-as algo relevante para a história e que sejam divertidas de obter.
+
+* **Relíquias só podem ser usadas uma única vez**
+
+    Assim que um PJ usar uma relíquia que possua, ela está fora do jogo.
+
+    A menos que a perda da Relíquia, de algum modo não faça sentido, esta regra deve ser seguida. Por isso é importante evitar criar Relíquias indestrutíveis.
+
+    Em casos muito especiais, como uma Relíquia que pudesse ser usada várias vezes (um arco e suas flechas por exemplo), simplesmente dê ao jogador uma quantidade maior de cartas, mas tenha em mente que isso pode desequilibrar o desafio do jogo.
+
+* **Crie Relíquias em grupo**
+
+    Embora seja tentador -- ou até tradicional -- que o MJ crie Relíquias e imponha as condições para sua aquisição, pode ser muito mais divertido fazer isso em grupo.
+
+    Dado que o poder básico de uma Relíquia é pré-definido (uma carta do **Baralho de desafio**) mas seu valor é aleatório, sempre que o grupo de PJs ficar _encalhado_ em algum lugar, sem ter recursos de como avançar, proponha uma pausa -- ou mesmo uma discussão _in game_ -- para decidir que tipo de relíquia ajudaria o grupo e onde ela poderia ser obtida.
+
+    Depois de algum tempo, os jogadores irão naturalmente propor a criação de relíquias, simplesmente dizendo algo como _"Aquele mestre ancião do templo talvez possa nos ajudar, ele tinha poções para quase tudo"_.
+
+### Poder das relíquias
+
+Por padrão, o poder de uma Relíquia é sempre 1, ou seja, uma carta do **Baralho de desafio**. Porém nada impede que existam Relíquias mais poderosas em jogo. Apenas tenha em mente que Relíquias muito poderosas podem desequilibrar o jogo.
+
+Eu, particularmente, prefiro dar a opção dos PJs obterem várias Relíquias, envolvendo inclusive buscas diferentes para elas. Afinal, nada impede que o PJ utilize mais de uma ao mesmo tempo, se as tiver disponíveis.
+
+# Sobre cartas de dados
+
+Como ja dito, _Nos sonhos da cidade_ utiliza tanto cartas de baralho como dados para gerar entropia. Basicamente, as cartas são a mecânica usada pelo MJ enquanto os dados são usados pelo PJs -- as Relíquias são uma exceção à isto.
+
+Isto pode gerar um temor de que as dificuldades (geradas pelas cartas) serão estatisticamente maiores do que as habilidades dos PJs (gerados pelos dados), inclusive o sistema deixa como opção o uso de dados de 10 lados (_d10_) para eliminar esta diferença. Mas a verdade é que existe um motivo das cartas serem usadas pelo MJ, Pesadelos e Relíquias...
+
+Ao contrário de dados, Cartas de baralho são previsíveis.
+
+Após o primeiro conflito com um Pesadelo, mesmo que o PJs não o vençam, saberão o valor exato de seu poder (com uma variação de 1 a 10 para cima, se ele tiver aumentado o poder pela vitória), da mesma forma, o valor exato de uma Relíquia é conhecido assim que esta é obtida por um PJ e mesmo o consumo das cartas durante o jogo (as compras e descartes) permitem uma previsão do que virá a seguir para olhos mais atentos.
+
+Essa previsibilidade permite um pouco de estratégia por parte dos jogadores. Estratégia esta que não necessariamente os ajudará a _ganhar o jogo_, mas irá guiá-los por caminhos específicos durante o jogo, enquanto eles decidem a melhor forma de combater os Pesadelos ainda existentes.
