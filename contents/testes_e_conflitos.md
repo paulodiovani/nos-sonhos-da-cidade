@@ -155,3 +155,5 @@ Ao contrário de dados, Cartas de baralho são previsíveis.
 Após o primeiro conflito com um Pesadelo, mesmo que o PJs não o vençam, saberão o valor exato de seu poder (com uma variação de 1 a 10 para cima, se ele tiver aumentado o poder pela vitória), da mesma forma, o valor exato de uma Relíquia é conhecido assim que esta é obtida por um PJ e mesmo o consumo das cartas durante o jogo (as compras e descartes) permitem uma previsão do que virá a seguir para olhos mais atentos.
 
 Essa previsibilidade permite um pouco de estratégia por parte dos jogadores. Estratégia esta que não necessariamente os ajudará a _ganhar o jogo_, mas irá guiá-los por caminhos específicos durante o jogo, enquanto eles decidem a melhor forma de combater os Pesadelos ainda existentes.
+
+<small>_créditos da imagem: [cards, dice wallpaper](http://wallpapersus.com/cards-dice/)_</small>
