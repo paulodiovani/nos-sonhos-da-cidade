@@ -31,5 +31,15 @@ A seguir vou listar algumas dicas de _Como narrar um sonhos_. Mas estas dicas s�
 
     Use metáforas sempre que possível, mesmo chegando a absurdos, como um NPC que se veste com _medo_ ou um Pesadelo que devora a _esperança_ de todos.
 
+* **Invente novos sentidos**
+
+    Deixe os PJs perceberem coisas de forma diferente de como faria na realidade. Eles podem sentir coisas como tamanho, eletricidade, escuridão, pensamentos, intenções, etc.
+
+* **Use música**
+
+    Pelo menos nos meu sonhos sempre parece ter algum som ou música específico. 
+
+    Música ambiente influencia na percepção, use uma diferente para cada área da cidade.
+
 <small>_créditos da imagem: [coolchaser](http://www.coolchaser.com/graphics/tag/The%20Dark%20City)_</small>
 

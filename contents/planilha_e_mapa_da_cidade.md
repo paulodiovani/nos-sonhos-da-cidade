@@ -40,7 +40,7 @@ O modelo desta planilha está a seguir. Ela deve ser prenchida ainda na prepara�
                         <td width="30%"></td>
                     </tr>
                     <tr>
-                        <th class="text-right">À esquerda de:</th>
+                        <th class="text-right">À direita de:</th>
                         <td width="30%"></td>
                         <th class="text-right">Abaixo de:</th>
                         <td width="30%"></td>
@@ -87,9 +87,9 @@ Vamos explicar melhor cada item da planilha:
 
         A carta que foi usada para criar a área e determinar o _Poder_ do pesadelo. Útil especialmente para manter jogos mais longos, quando você reconstruir o _Mapa da cidade_.
 
-    * **À esquerda de**
+    * **À direita de**
 
-        Nome da área que fica à direita desta, se alguma. Também útil para reconstruir o mapa da cidade.
+        Nome da área que fica à esquerda desta, se alguma. Também útil para reconstruir o mapa da cidade.
 
     * **Abaixo de**
 
@@ -126,7 +126,7 @@ Veja os exemplos à seguir, comparando com o preenchimendo das áreas na  _Plani
         <td width="30%">K♣</td>
     </tr>
     <tr>
-        <th class="text-right">À esquerda de:</th>
+        <th class="text-right">À direita de:</th>
         <td width="30%">--</td>
         <th class="text-right">Abaixo de:</th>
         <td width="30%">--</td>
@@ -141,7 +141,7 @@ Veja os exemplos à seguir, comparando com o preenchimendo das áreas na  _Plani
         <td width="30%">J♠</td>
     </tr>
     <tr>
-        <th class="text-right">À esquerda de:</th>
+        <th class="text-right">À direita de:</th>
         <td width="30%">Escola abandonada</td>
         <th class="text-right">Abaixo de:</th>
         <td width="30%">--</td>
@@ -156,7 +156,7 @@ Veja os exemplos à seguir, comparando com o preenchimendo das áreas na  _Plani
         <td width="30%">Q♥</td>
     </tr>
     <tr>
-        <th class="text-right">À esquerda de:</th>
+        <th class="text-right">À direita de:</th>
         <td width="30%">--</td>
         <th class="text-right">Abaixo de:</th>
         <td width="30%">Hospital macabro</td>
