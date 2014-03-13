@@ -9,7 +9,7 @@ Até agora o conjunto de regras de Criação de personagens e Construção da ci
 
 Basicamente, a Cidade continua sonhando, e assim evolui. Novas áreas são adicionadas, novos Pesadelos aparecem, etc. Enquanto que os PJs são trocados a cada nova sessão.
 
-A seguir vou mostrar um conjunto simplificado das regras citadas visando jogos mais longos. Estas regras são para a preparação de novas sessões de histórias em andamento.
+A seguir vou mostrar um conjunto simplificado das regras citadas visando jogos mais longos. Estas regras são para o início de novas sessões de histórias em andamento.
 
 <img class="img-responsive img-circle" src="img/inception_limbo.jpg" alt="inception_limbo">
 
@@ -21,17 +21,17 @@ Cada jogador compra duas cartas do **Baralho de construção** e escolhe a que p
 
 Essa troca de personagens tem por objetivo dar ênfase na cidade, e não nos PJs.
 
-Claro, seu antigo personagem não precisa desaparecer, ele ainda pode influenciar na história, afinal há ações que ele realizou que refletiram em mudanças no sonho. Ou ainda seu novo personagem pode ser uma nova face -- ou, um novo ponto de vista -- do mesmo personagem de antes, porém com nova aparência e habilidades.
+Claro, seu antigo personagem não precisa desaparecer, ele ainda pode influenciar na história, afinal há ações que ele realizou que refletiram em mudanças no sonho. Ou ainda, seu novo personagem pode ser uma nova face -- ou um novo ponto de vista -- do personagem anterior, porém com nova aparência e habilidades.
 
 Em resumo, seu novo personagem pode apenas parecer diferente, ou pode ser uma pessoa completamente diferente. É você quem decide isso.
 
 ### Onde estão minhas Relíquias
 
-Se você não utilizou todas Relíquias que dispunha até o final da última sessão, o normal é que elas desapareçam, ou que o PJ precise obtê-las novamente.
+Se você não utilizou todas Relíquias que dispunha até o final da última sessão, o normal é que elas desapareçam ou que o PJ precise obtê-las novamente.
 
-O ideal em _Nos sonhos da cidade_ é terminar cada "capítulo" da história no final de uma sessão, este não é um jogo que se beneficie muito de _cliff hangers_, mas claro, sempre há exceções.
+O ideal em _Nos sonhos da cidade_ é terminar cada "capítulo" da história no final de uma sessão, este não é um jogo que se beneficie muito de _cliffhangers_, mas claro, sempre há exceções.
 
-Caso faça sentido que uma Relíquia não usada persista de uma seção para a outra, considere que seu novo personagem a obteve do antigo -- ou simplesmente se materializou no sonho com ela, isso não importa tanto, -- contudo, o jogador deve comprar uma nova carta do **Baralho de desafio** para representar o poder da Relíquia. Ou seja, você manter sua Relíquia, mas a carta dela deve ser uma nova.
+Caso faça sentido que uma Relíquia não usada persista de uma sessão para a outra, considere que seu novo personagem a obteve do antigo -- ou simplesmente se materializou no sonho com ela, isso não importa tanto, -- contudo, o jogador deve comprar uma nova carta do **Baralho de desafio** para representar o poder da Relíquia. Ou seja, você mantém sua Relíquia, mas a carta dela deve ser uma nova.
 
 ## (Re)Construção da cidade
 
@@ -45,7 +45,7 @@ Se você preencheu corretamente a _Planilha da cidade_, então poderá reproduzi
 
 Pronto, você reconstruiu a cidade. Agora vamos adicionar algumas coisas a mais.
 
-Cada jogador ainda terá em sua mão uma carta do **Baralho de construção** que sobrou após a criação de personagens. Com esta carta ele pode escolher uma das opções a seguir. O MJ pode, ou não, comprar uma carta do **Baralho de construção** para tomar uma das ações a seguir, dependendo apenas de sua vontade.
+Cada jogador ainda terá em sua mão uma carta do **Baralho de construção** que sobrou após a criação de personagens. Com esta carta ele pode escolher uma das opções a seguir. O MJ também deve comprar uma única carta do **Baralho de construção** para tomar uma das ações a seguir.
 
 * **Criar uma nova área**
 
@@ -75,6 +75,6 @@ Com apenas 12 cartas no **Baralho de Construção**, após uma segunda sessão �
 
 A intenção de usar apenas um baralho é para equilibrar os estereótipos dos PJs e as áreas/pesadelos das cidades, contudo, no caso das cartas estarem acabando, a solução óbvia é adicionar um novo baralho, então simplesmente faça isso. 24 cartas deve ser suficiente para muitas sessões de jogo.
 
-O **Baralho de desafio**, por outro lado, dificilmente ficará limitado, embora seu uso contínuo pode fazer as cartas acabarem durante as sessões. No caso, apenas pegue novamente as cartas da pilha de descarte (as já usadas) e embaralhe-as novamente.
+O **Baralho de desafio**, por outro lado, dificilmente ficará limitado, embora seu uso contínuo pode fazer as cartas acabarem durante as sessões. Neste caso, apenas pegue novamente as cartas da pilha de descarte (as já usadas) e embaralhe-as novamente.
 
 <small>_créditos da imagem: Cena do filme [Inception](http://www.imdb.com/title/tt1375666/)_</small>

@@ -27,19 +27,19 @@ A seguir vou listar algumas dicas de _Como narrar um sonhos_. Mas estas dicas s�
 
 * **Sensações ao invés de formas**
 
-    Como Lovecraft, ao descrever algo que possa intrigar os PJs, especialmente Pesadelos, diga que tipo de sentimento que cincunda o mesmo, e não como ele se parece.
+    Como Lovecraft, ao descrever algo que possa intrigar os PJs, especialmente Pesadelos, diga que tipo de sentimento envolve o mesmo, e não exatamente como ele se parece.
 
     Use metáforas sempre que possível, mesmo chegando a absurdos, como um NPC que se veste com _medo_ ou um Pesadelo que devora a _esperança_ de todos.
 
 * **Invente novos sentidos**
 
-    Deixe os PJs perceberem coisas de forma diferente de como faria na realidade. Eles podem sentir coisas como tamanho, eletricidade, escuridão, pensamentos, intenções, etc.
+    Deixe os PJs perceberem coisas de forma diferente de como fariam na realidade. Eles podem sentir coisas como espaço, eletricidade, escuridão, pensamentos, intenções, etc.
 
 * **Use música**
 
-    Pelo menos nos meu sonhos sempre parece ter algum som ou música específico. 
+    Pelo menos nos meu sonhos sempre parece ter algum som ou música específica. 
 
-    Música ambiente influencia na percepção, use uma diferente para cada área da cidade.
+    Música ambiente influencia na percepção, use uma diferente para cada área da cidade, combinando com o sentimento que quer passar nesta área.
 
 <small>_créditos da imagem: [coolchaser](http://www.coolchaser.com/graphics/tag/The%20Dark%20City)_</small>
 

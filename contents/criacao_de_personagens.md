@@ -14,12 +14,12 @@ Claro, se nenhum dos estereótipos da lista a seguir lhe parecer atraente, você
 ## Estereótipos de personagens
 
 <!--
- |   | J                        | Q                    | K                      |
- | - | ------------------------ | -------------------- | ---------------------- |
- | ♠ | Soldado ou Policial raso | Juíz/oficial militar | Prefeito               |
- | ♦ | Mercador                 | Membro de guilda     | Nobre/Ricaço da cidade |
- | ♣ | Camponês                 | Druída               | Líder espiritual       |
- | ♥ | Pescador                 | Marinheiro           | Capitão                |
+  |   | J                        | Q                    | K                            |
+  | - | ------------------------ | -------------------- | ----------------------       |
+  | ♠ | Legionário               | Cavaleiro de ordem   | Juiz                         |
+  | ♦ | Mercador                 | Criminoso/Ladrão     | Nobre                        |
+  | ♣ | Camponês                 | Druída               | Elfo/Criatura mágica         |
+  | ♥ | Pescador                 | Pirata               | Capitão (de navio/submarino) |
 -->
 
 <table class="table table-bordered">
@@ -34,27 +34,27 @@ Claro, se nenhum dos estereótipos da lista a seguir lhe parecer atraente, você
     <tbody>
         <tr>
             <td>♠ (Espadas)</td>
-            <td>Soldado ou Policial raso</td>
-            <td>Juíz/Oficial militar</td>
-            <td>Prefeito</td>
+            <td>Legionário</td>
+            <td>Cavaleiro de ordem</td>
+            <td>Juiz</td>
         </tr>
         <tr>
             <td>♦ (Ouros)</td>
             <td>Mercador</td>
-            <td>Membro de guilda</td>
-            <td>Nobre/Ricaço da cidade</td>
+            <td>Criminoso/Ladrão</td>
+            <td>Nobre</td>
         </tr>
         <tr>
             <td>♣ (Paus)</td>
             <td>Camponês</td>
             <td>Druída</td>
-            <td>Líder espiritual</td>
+            <td>Elfo/Criatura mágica</td>
         </tr>
         <tr>
             <td>♥ (Copas)</td>
             <td>Pescador</td>
-            <td>Marinheiro</td>
-            <td>Capitão</td>
+            <td>Pirata</td>
+            <td>Capitão (de navio/submarino)</td>
         </tr>
     </tbody>
 </table>
