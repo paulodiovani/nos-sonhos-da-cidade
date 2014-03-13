@@ -25,8 +25,11 @@ blockquote strong, blockquote b { font-weight: bolder; }
 /* Tabela usada como mapa da cidade 
     define a largura máxima das cartas */
 table.citymap td {
-    position: relative;
     width: 136px;
+}
+
+table.citymap td div {
+    position: relative;
 }
 
 table.citymap img {
@@ -36,6 +39,7 @@ table.citymap img {
 table.citymap td .label {
     position: absolute;
     top: 50%;
+    left: 0px;
     margin-top: -20px;
     width: 120px;
     white-space: normal;

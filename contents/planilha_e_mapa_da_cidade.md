@@ -167,19 +167,25 @@ Veja os exemplos à seguir, comparando com o preenchimendo das áreas na  _Plani
 <table class="table-bordered citymap">
     <tr>
         <td>
-            ![K♣](img/svg-cards/cards/Clubs/KC.svg)
-            <span class="label label-default">Escola abandonada</span>
+            <div>
+                ![K♣](img/svg-cards/cards/Clubs/KC.svg)
+                <span class="label label-default">Escola abandonada</span>
+            </div>
         </td>
         <td>
-            ![J♠](img/svg-cards/cards/Spades/JS.svg)
-            <span class="label label-default">Hospital macabro</span>
+            <div>
+                ![J♠](img/svg-cards/cards/Spades/JS.svg)
+                <span class="label label-default">Hospital macabro</span>
+            </div>
         </td>
     </tr>
     <tr>
         <td></td>
         <td>
-            ![Q♥](img/svg-cards/cards/Hearts/QH.svg)
-            <span class="label label-default">Há peixes no estacionamento!</span>
+            <div>
+                ![Q♥](img/svg-cards/cards/Hearts/QH.svg)
+                <span class="label label-default">Há peixes no estacionamento!</span>
+            </div>
         </td>
     </tr>
 </table>

@@ -41,5 +41,15 @@ A seguir vou listar algumas dicas de _Como narrar um sonhos_. Mas estas dicas s�
 
     Música ambiente influencia na percepção, use uma diferente para cada área da cidade, combinando com o sentimento que quer passar nesta área.
 
+# "A cidade está morrendo..."
+
+Como narrado no capítulo Introdução, _Nos sonhos da cidade_ é um jogo sobre uma cidade que é perturbada em seus sonhos por problemas de sua realidade.
+
+Lembre-se, então, de retratá-la como tal.
+
+A doença que impregna as ruas da cidade deve ser tangível. Descreva-a como uma névoa pestilenta ou olhos maléficos espreitando por cantos obscuros. Dê aos jogadores a sensação que algo não está certo e de perigo iminente.
+
+Um bom exemplo de cidade obscura e com sensação de perigo eminente é o jogo e filme _Silent Hill_. Tente passar um clima parecido para o jogo.
+
 <small>_créditos da imagem: [coolchaser](http://www.coolchaser.com/graphics/tag/The%20Dark%20City)_</small>
 

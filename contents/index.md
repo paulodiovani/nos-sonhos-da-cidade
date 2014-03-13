@@ -38,11 +38,13 @@ Minhas insírações para a criação deste jogo, que também podem servir de in
 
 * Cidade das sombras
 * Inseption
+* Silent Hill
 * Sucker Punch
 
 ## Games
 
 * LIMBO -- quem não conhece este jogo, pára o que estiver fazendo, compre e jogue. E não esqueça de apagar as luzes do quarto.
+* Silent Hill
 
 ## Outros RPGs
 

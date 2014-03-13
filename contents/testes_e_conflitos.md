@@ -5,17 +5,15 @@ authorUrl: http://blog.diovani.com
 template: default.jade
 ---
 
-Testes e conflitos, em _Nos sonhos da cidade_, tem por objetivo determinar o rumo da história, e não necessariamente sucesso ou fracasso contra uma oposição. Em outras palavras, o resultado de um teste deve ter significado na história e decidir o que acontecerá à seguir.
+Testes e conflitos, em _Nos sonhos da cidade_, tem por objetivo determinar o rumo da história e não, necessariamente, sucesso ou fracasso contra uma oposição. Em outras palavras, o resultado de um teste deve ter significado na história e decidir o que acontecerá à seguir.
 
-_Deixe o teste definir o rumo da história_.
-
-Por exemplo, se o grupo de PJs pretende entrar num castelo fortificado, o MJ pode pedir um teste ainda antes do grupo decidir o rumo de ações. Um sucesso pode indicar que existem NPCs conhecidos guardando os portões, permitindo uma entrada pacífica, enquanto um fracasso pode definir que a única forma de entrar é abatendo os guardas das torres e saltando as muralhas durante a noite.
+<p class="lead">Deixe o teste definir o rumo da história.</p>
 
 Agumas dicas para o MJ:
 
-* Tenha claramente em mente o que ocorrerá após cada resultado do teste.
+* Tenha claramente em mente o que ocorrerá após cada resultado, antes de pedir o teste.
 * Pense no futuro, o resultado não precisa ser imediato. Pelo contrário, ele funciona melhor se as consequências persistirem por dias, ou até durante toda a história.
-* Evite que os jogadores possam insistir num teste, fazendo-o novamente. Deixe claro que os resultados não podem ser revertidos.
+* Evite que os jogadores possam insistir repetidamente num teste. Deixe claro que os resultados não podem ser revertidos.
 * Considere sucessos parciais ao invés de falhas para alguns testes, isso pode permitir à historia progredir dando espaço para novos desafios depois.
 
 Todos os testes em _Nos sonhos da cidade_ são realizados com a rolagem 1 a 3 de dados comuns de 6 faces (_d6_) --  vamos chamá-los aqui apenas de _dados_, visto que são o único tipo utilizado.
@@ -25,7 +23,7 @@ Todos os testes em _Nos sonhos da cidade_ são realizados com a rolagem 1 a 3 de
     Contudo, note que isto reduzirá em muito a dificuldade dos testes do jogo e quase inibirá a necessidade de **Relíquias** (veja a seguir) que são, na minha opinião, um elemento importante de narrativa e recompensas.
 </div>
 
-Basicamente dois tipos de testes serão feitos durante o jogo, testes para _superar desafios_, e _conflitos com pesadelos_.
+Basicamente três tipos de testes serão feitos durante o jogo, testes para _superar desafios_, _tomar decisões_ e _conflitos contra pesadelos_.
 
 <img class="img-responsive img-circle" src="img/cards-dice-485x728.jpg" alt="cards-dice-485x728">
 
@@ -47,12 +45,11 @@ Considere os seguintes casos para garantir um sucesso automático para superar u
 
 Estes serão os testes mais comuns e frequentes duranta as histórias. O MJ deve pedir um teste para superar um desafio quando:
 
-1. Existem duas ou mais formas de resolver um problema, ou
-2. Existe uma oposição frente ao objetivo dos PJs, e
-3. Nenhum PJ é qualificado para superar o desafio automaticamente, e
-4. Uma falha no teste implica num rumo diferente para a história.
+1. Existe uma oposição frente ao objetivo dos PJs?
+2. Nenhum PJ é qualificado para superar o desafio automaticamente?
+3. Uma falha no teste implica num rumo diferente para a história?
 
-Quando as questões acima forem verdadeiras, então o MJ deve determinar a dificuldade do desafio e comprar uma quantidade de cartas do **Baralho de desafio** de acordo com a mesma:
+Quando **todas as questões** forem verdadeiras, então o MJ deve determinar a dificuldade do desafio e comprar uma quantidade de cartas do **Baralho de desafio** de acordo com a mesma:
 
 * **Desafio fácil à médio:** 1 (uma) carta
 * **Desafio difícil:** 2 (duas) cartas
@@ -69,6 +66,34 @@ Decidida a dificuldade do desafio, o MJ compra a quantidade aplicável de cartas
 
 Se o personagem que estiver tentando superar o desafio não tiver qualificações contra o mesmo (Ex.: um camponês tentando convencer um militar) ele não recebe nenhum dado. A única forma de superar um desafio desta forma é com o uso de **Relíquias** (veja adiante).
 
+## Tomando decisões
+
+Testes para tomadas de decisões devem ser pedidos sempre que o grupo chega a um impasse frente a uma abordagem e a escolha do rumo de ações irá influenciar explicitamente na história. 
+
+Eles são realizados da mesma forma que os testes para _Superar desafios_, com o MJ comprando uma ou mais cartas para definir o valor a ser superado.
+
+O resultado de um teste de _Tomada de decisão_ pode até mesmo adicionar fatos ao passado do PJ ou do grupo como um todo, indicando que o(s) PJ(s) tenham um favor a cobrar ou conhecimento prévio de uma área, por exemplo.
+
+Tenha em mente uma das perguntas a seguir:
+
+* Existem duas ou mais formas de resolver um problema?
+
+    ou ainda...
+
+* Existem dois ou mais caminhos para o destino adiante?
+
+Se a resposta for _Sim_, pondere rapidamente sobre as alternativas e peça o teste para definir qual delas é válida.
+
+> **Ex.**
+>
+> Ao atravessar uma floresta, o personagem de Antonio, um Elfo da floresta, avista movimento mais à frente e o grupo questiona entre si se poderiam ser amigos ou inimigos.
+>
+> Neste momento o MJ pede à Antonio que role um teste contra uma dificuldade média (uma carta) e compra um 9♠ (Nove de espadas).
+>
+> Antonio rola seus três dados e obtém: 4, 1, 1, somando um total de 6, o que não é suficiente.
+>
+> O MJ, devido ao resultado, narra que o movimento eram um grupo de homens-sapo que embosca os PJs e acabam por levá-los, presos por mãos e pés, para sua aldeia. Um sucesso no teste, por outro lado, decidiria que eram Elfos patrulhando a floresta e que poderiam ajudar os PJs a atravessá-la em segurança.
+
 ## Enfrentando pesadelos
 
 Enfrentar um pesadelo é o que existe de mais próximo de um combate em _Nos sonhos da cidade_, porém este _combate_ não representa, necessariamente, um embate físico, sendo mais provavelmente uma série de desafios a serem superados, dependendo da natureza do pesadelo.
@@ -79,15 +104,15 @@ Revele as cartas de poder do pesadelo e some seus valores, então permita ao PJ 
 
 Note os possíveis resultados à seguir:
 
-* **Sucessos (valor igual ou superior)** O PJ supera um desafio imposto para derrotar o Pesadelo, o Pesadelo, então perde uma carta de poder (sempre a mais de baixo). 
+* **Sucesso (valor igual ou superior)** O PJ supera um desafio imposto para derrotar o Pesadelo, o Pesadelo, então perde uma carta de poder (sempre a mais de baixo). 
 
-    * Se esta for a única carta de poder que tiver atualmente, o Pesadelo é derrotado. A área que estava em seu domínio é então _purificada_ ou _salva_ pelos PJs.
-    * Se ouverem ainda outras cartas, novos testes devem ser feitos, até derrotar o Pesadelo (até que a última carta seja removida).
+    * Se esta for a única carta de poder que tiver atualmente, o Pesadelo é derrotado. A área que estava em seu domínio é então _curada_ ou _salva_ pelos PJs.
+    * Se ouverem ainda outras cartas, novos testes devem ser feitos, até derrotar o Pesadelo (até que a última carta seja removida). -- Garanta que os próximos testes signifiquem algo na história, como mudanças no Pesadelo que impôem novos desafios.
 
 * **Falha (valor menor)** No caso de uma falha no teste, uma de duas coisas podem acontecer. Em ambos os casos, um novo teste pode ser feito para tentar novamente vencer o Pesadelo.
 
     * **O pesadelo fica mais forte:** O MJ compra mais um carta do **Baralho de desafio** e coloca sob a carta da área. Se nova tentativa de vencer o Pesadelo for realizada ela é revelada de imediato e já soma no total a ser superado pelos testes.
-    * **O PJ é devorado** O PJ que enfrentou o Pesadelo é devorado pelo mesmo e deixa de existir. Recomendo deixar esta opção para final de sessões, onde a perda do PJ não deixará o jogador "fora da história" por muito tempo.
+    * **O PJ é devorado** O PJ que enfrentou o Pesadelo é devorado pelo mesmo e deixa de existir. -- Recomendo deixar esta opção para final de sessões, onde a perda do PJ não deixará o jogador "fora da história" por muito tempo.
 
 # Relíquias
 
@@ -95,7 +120,7 @@ Note os possíveis resultados à seguir:
 
 Elas devem ser obitas em buscas adicionais durante a história, como prêmio por ajudar NPCs, dedicação em aprender algo novo, ou simplesmente visitar certo lugar. Generalizando, sempre que algum objetivo principal (vencer um Pesadelo, especialmente) for impossível para as habilidades atuais dos personagens, a solução é procurar uma relíquia que possa ajudar na tarefa.
 
-Sempre que um PJ obtiver uma **Relíquia**, este deve comprar uma carta do **Baralho de desafio** e guardá-la em sua mão. Em qualquer teste ou conflito em que este PJ se envolver posteriormente, ele pode usar a Relíquia para adicionar seu valor ao teste -- o uso da relíquia pode ser declarado após a rolagem dos dados.
+Sempre que um PJ obtiver uma **Relíquia**, este deve comprar uma carta do **Baralho de desafio** e guardá-la em sua mão. Em qualquer teste ou conflito em que este PJ se envolver posteriormente, ele pode usar a Relíquia para adicionar seu valor ao teste -- o uso da relíquia pode ser declarado após a rolagem dos dados -- após o qual a Relíquia é descartada.
 
 Em vias de regra, as Relíquias são a compensação da dificuldade de superar os valores de poder (das cartas) com apenas as habilidades (os dados) dos PJs. Contudo, deve-se ter alguns cuidados ao incluir Relíquias na história.
 
