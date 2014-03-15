@@ -39,9 +39,13 @@ Eis as minhas escolhas.
 
 * **O Limite é Tênue:** Crie um jogo no qual os fatores externos a mesa (dia da semana, condição do clima, notícias recentes, flutuação da bolsa, etc.) influenciam significativamente nas mecânicas e na narrativa. Tente buscar referências nos jogos de realidade aumentada (ARGs), mas focando sempre na narrativa analógica.
 
+    Usei esta meta na construção da Cidade e dos Pesadelos, com o propósito de trazer lugares e problemas reais para o jogo. Esta construção não é presente apenas no início de um jogo, mas no início de cada nova sessão.
+
 # Inspirações e referências
 
 Minhas insírações para a criação deste jogo, que também podem servir de inspiração para mestres ensandecidos que desejem testar meu jogo.
+
+A maioria são inspírações visuais para retratar os sonhos, mas algumas foram ideias para a concepção e até mesmo regras.
 
 ### Quadrinhos
 
@@ -52,10 +56,12 @@ Minhas insírações para a criação deste jogo, que também podem servir de in
 * Dark City (1998)
 * Inception (2010)
 * Silent Hill (2006)
+* Sin City (2005)
 * Sucker Punch (2011)
 
 ### Games
 
+* Legend of Mana -- de onde veio a ideia do mapa da cidade criado pelos jogadores.
 * LIMBO -- quem não conhece este jogo, pára o que estiver fazendo, compre e jogue. E não esqueça de apagar as luzes do quarto.
 * Silent Hill
 
