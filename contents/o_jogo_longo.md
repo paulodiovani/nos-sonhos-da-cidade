@@ -11,7 +11,7 @@ Basicamente, a Cidade continua sonhando, e assim evolui. Novas áreas são adici
 
 A seguir vou mostrar um conjunto simplificado das regras citadas visando jogos mais longos. Estas regras são para o início de novas sessões de histórias em andamento.
 
-<img class="img-responsive img-circle" src="img/inception_limbo.jpg" alt="inception_limbo">
+<img class="img-responsive img-circle hidden-print" src="img/inception_limbo.jpg" alt="inception_limbo">
 
 ## Criação de novos personagens
 

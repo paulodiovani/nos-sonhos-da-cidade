@@ -4,7 +4,7 @@ html(lang='en')
   body
     div.container
 
-      div.row
+      div.row.hidden-print
         div.col-md-12
           div.page-header
 
@@ -14,14 +14,14 @@ html(lang='en')
             h1= locals.title
             address por <a href="#{page.metadata.authorUrl}">#{page.metadata.author}</a>
             p Um jogo narrativo sobre descobrimento e problemas sociais em uma realidade alternativa.
-            p: a.btn.btn-primary.btn-lg(role="button", href="introducao.html") Descubra mais&hellip;
+            p.hidden-print: a.btn.btn-primary.btn-lg(role="button", href="introducao.html") Descubra mais&hellip;
 
           != page.html
 
-        div.col-md-3
+        div.col-md-3.hidden-print
           include menu.jade
 
-      div.row
+      div.row.hidden-print
         div.col-md-12
           include ../includes/disqus.html
 

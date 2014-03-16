@@ -15,7 +15,7 @@ O processo de _Construção da cidade_, tem por objetivo criar uma versão onír
     A única exigência é que sejam cidades que os jogadores conheçam e tenham meios de obter informações da mesma.
 </div>
 
-<img class="img-responsive img-circle" src="img/variations-on-a-dark-city.jpg" alt="variations-on-a-dark-city">
+<img class="img-responsive img-circle hidden-print" src="img/variations-on-a-dark-city.jpg" alt="variations-on-a-dark-city">
 
 ## Construção das áreas da cidade
 

@@ -25,7 +25,7 @@ Todos os testes em _Nos sonhos da cidade_ são realizados com a rolagem 1 a 3 de
 
 Basicamente três tipos de testes serão feitos durante o jogo, testes para _superar desafios_, _tomar decisões_ e _conflitos contra pesadelos_.
 
-<img class="img-responsive img-circle" src="img/cards-dice-485x728.jpg" alt="cards-dice-485x728">
+<img class="img-responsive img-circle hidden-print" src="img/cards-dice-485x728.jpg" alt="cards-dice-485x728">
 
 ### Preciso mesmo fazer um teste?
 

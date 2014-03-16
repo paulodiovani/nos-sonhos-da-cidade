@@ -70,6 +70,6 @@ A maioria são inspírações visuais para retratar os sonhos, mas algumas foram
 * Busca Final
 * Este Corpo Mortal
 
-<img class="img-responsive img-circle" src="img/limbo_by_lemonchipz-d5j0qho.png" alt="limbo_by_lemonchipz-d5j0qho">
+<img class="img-responsive img-circle hidden-print" src="img/limbo_by_lemonchipz-d5j0qho.png" alt="limbo_by_lemonchipz-d5j0qho">
 
 <small>_créditos da imagem: [Limbo, by Lemonchipz](http://lemonchipz.deviantart.com/art/Limbo-334277916)_</small>

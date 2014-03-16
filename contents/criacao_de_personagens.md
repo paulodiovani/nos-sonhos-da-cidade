@@ -9,7 +9,7 @@ Apesar deste capítulo se chamar de criação de personagens, você não estará
 
 Claro, se nenhum dos estereótipos da lista a seguir lhe parecer atraente, você pode criar seu próprio, mas tenha em mente o impacto (da função/profissão) que ele causará nos NPCs (do inglês, _non player characters_, ou personagens não jogadores), pois isso será relevante no jogo.
 
-<img class="img-responsive img-circle" src="img/ice_people_walking_in_dark.jpg" alt="ice_people_walking_in_dark">
+<img class="img-responsive img-circle hidden-print" src="img/ice_people_walking_in_dark.jpg" alt="ice_people_walking_in_dark">
 
 ## Estereótipos de personagens
 

@@ -17,7 +17,7 @@ Me envie um e-mail para o endereço "paulo AT diovani DOT com" ou comente nas p�
 
 Agora, se preferir, também pode ajudar via GitHub mesmo. Basta clicar na imagem abaixo para visitar o [repositório do jogo][2].
 
-[![github-mark](img/GitHub-Mark-Light-120px-plus.png)][2]
+[<img src="img/GitHub-Mark-Light-120px-plus.png" alt="github-mark" class="hidden-print">][2]
 
 [1]: http://blog.diovani.com
 [2]: https://github.com/paulodiovani/nos-sonhos-da-cidade "Nos sonhos da cidade, no GitHub"

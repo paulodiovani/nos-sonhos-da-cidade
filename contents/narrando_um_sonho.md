@@ -15,9 +15,9 @@ Recomendo a leitura de Sandman, de Neil Gaiman, como fonte de inspiração -- af
 
 A seguir vou listar algumas dicas de _Como narrar um sonhos_. Mas estas dicas são a minha visão de sonhos, os seus podem ser bem diferentes então apenas considere-as se elas se encaixarem no seu conceito de _o que é um sonho_.
 
-<img class="img-responsive img-circle" src="img/DarkCity.jpg" alt="DarkCity">
+<img class="img-responsive img-circle hidden-print" src="img/DarkCity.jpg" alt="DarkCity">
 
-## Dicas para narrar um sonhos
+## Dicas para narrar um sonho
 
 * **Remova a luz**
 

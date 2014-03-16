@@ -107,7 +107,7 @@ Vamos explicar melhor cada item da planilha:
 
     Espaço destinado (você também pode usar um caderno) a um resumo dos acontecimentos da última sessão, afinal, sonhos são fáceis de esquecer após algum tempo.
 
-<img class="img-responsive img-circle" src="img/gotham.png" alt="gotham">
+<img class="img-responsive img-circle hidden-print" src="img/gotham.png" alt="gotham">
 
 ## Mapa da cidade
 
