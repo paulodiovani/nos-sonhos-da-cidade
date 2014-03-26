@@ -15,7 +15,7 @@ O processo de _Construção da cidade_, tem por objetivo criar uma versão onír
     A única exigência é que sejam cidades que os jogadores conheçam e tenham meios de obter informações da mesma.
 </div>
 
-<img class="img-responsive img-circle" src="img/variations-on-a-dark-city.jpg" alt="variations-on-a-dark-city">
+<img class="img-responsive img-circle hidden-print" src="img/variations-on-a-dark-city.jpg" alt="variations-on-a-dark-city">
 
 ## Construção das áreas da cidade
 
@@ -36,6 +36,17 @@ Decidido o local e as características dele, anote num pedaço de papel uma iden
 > Carlos, o MJ, atenta para o naipe, que indica uma área selvagem, e sugere que a escola pode estar abandonada há muitos anos e tomada pela mata próxima. Agora a própria escola parece crescer junto com a floresta e novos corredores e salas de aula surgem a cada ano, transformando o local num verdadeiro labirinto vivo.
 >
 > Jéssica gosta de ideia, então anota num papel "Escola abandonada", dobra e o deposita sobre a carta.
+> <!-- mapa de cartas -->
+> <table class="table-bordered citymap">
+>     <tr>
+>         <td>
+>             <div>
+>                 ![K♣](img/svg-cards/cards/Clubs/KC.svg)
+>                 <span class="label label-default">Escola abandonada</span>
+>             </div>
+>         </td>
+>     </tr>
+> </table>
 
 Lembre de pedir opinião dos outros jogadores. Esta fase de Construção da cidade deve ser coletiva, onde todos ajudam a construir as áreas.
 
@@ -63,13 +74,13 @@ Este será o poder do Pesadelo presente naquele local.
 
 > **Ex.**
 >
-> Jéssica lembra de uma campanha de vacinação recente nas escolas da região, e questiona os demais como poderiam usar isto para construir um Pesadelo.
+> Jéssica lembra de surto de uma doença que houve numa escola perto de sua casa e questiona os demais como poderiam usar isto para construir um Pesadelo.
 >
 > Após alguma discussão o grupo decide que alguma coisa está transformando tudo na escola em plantas, inclusive as crianças que estudavam lá. Qualquer um que permaneça muito tempo na escola começa a sentir uma sonolência, e mais tarde enrigecimento dos membros. Se não sair em breve acaba por não poder se mover mais.
 >
 > Como sua carta era um Rei (K), Jéssica compra três cartas do Baralho de desafio e, sem olhar, coloca todas com a face virada para baixo sob o Rei que agora representa a "Escola abandonada".
 
-Note no exemplo que a notícia apenas deu uma ideia de alguma doença, ou agente químico, que poderia estar atuando na escola. A dica aqui é que as notícias devem ser usadas apenas como inspiração, mesmo indiretamente, e nunca dizer explicitamente como resolver o problema.
+Note que a notícia usada apenas falava sobre uma doença, mas não qual o que ela causa. A dica aqui é que as notícias devem ser usadas apenas como inspiração, mesmo indiretamente, e o Pesadelo deve ser apenas um problema vago, sem indicar como este deve ser resolvido.
 
 No decorrer da aventura o grupo pode ser levado a buscar uma cura para a doença, ou a enfrentar o xamã maléfico que lançou uma madição sobre a escola, mas por hora não sabemos.
 

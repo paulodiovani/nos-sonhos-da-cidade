@@ -15,10 +15,10 @@ html(lang='en')
         div.col-md-9
           != page.html
           
-        div.col-md-3
+        div.col-md-3.hidden-print
           include menu.jade
 
-      div.row
+      div.row.hidden-print
         div.col-md-12
           include ../includes/disqus.html
 

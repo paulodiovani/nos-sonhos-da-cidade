@@ -11,7 +11,7 @@ Um mal se espalha por seu corpo -- uma doença -- entupindo suas veias, corroend
 
 Em seu mundo desperto, as consequências são palpáveis -- Problemas de trânsito, assaltos, assassinatos, fome, desemprego, abandono -- mas são nos sonhos que tais consequências são mais devastadoras...
 
-<img class="img-responsive img-circle" src="img/dark_city_streets.jpg" alt="dark_city_streets">
+<img class="img-responsive img-circle hidden-print" src="img/dark_city_streets.jpg" alt="dark_city_streets">
 
 ## **...Sonhos que se tornaram pesadelos**
 

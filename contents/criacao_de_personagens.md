@@ -9,7 +9,7 @@ Apesar deste capítulo se chamar de criação de personagens, você não estará
 
 Claro, se nenhum dos estereótipos da lista a seguir lhe parecer atraente, você pode criar seu próprio, mas tenha em mente o impacto (da função/profissão) que ele causará nos NPCs (do inglês, _non player characters_, ou personagens não jogadores), pois isso será relevante no jogo.
 
-<img class="img-responsive img-circle" src="img/ice_people_walking_in_dark.jpg" alt="ice_people_walking_in_dark">
+<img class="img-responsive img-circle hidden-print" src="img/ice_people_walking_in_dark.jpg" alt="ice_people_walking_in_dark">
 
 ## Estereótipos de personagens
 
@@ -61,9 +61,13 @@ Claro, se nenhum dos estereótipos da lista a seguir lhe parecer atraente, você
 
 No começo do jogo, cada jogador (menos o mestre) deve pegar duas cartas da pilha de figuras e escolher dentre elas a que preferir para o seu estereótipo de personagem, conforme a tabela acima.
 
-Por exemplo, um Valete (J) de Espadas (♠) representa um _soldado ou policial sem muita importância_, enquanto um Rei (K) de Ouros (♦) representa o _Ricasso da cidade_.
-
 Escolhida a carta, dê um nome ao seu personagem (ou escolha uma alcunha, se preferir, o que importa é como chamá-lo), descreva sua aparência para os demais, e pronto.
+
+> **Ex.**
+> 
+> Jéssica está compra duas cartas do **Baralho de construção** para criar seu personagem. As cartas que obteve são uma Q♥ (dama de copas) e um K♣ (Rei de paus).
+> 
+> O Rei é um personagem mais poderoso, mas Jéssica queria algum personagem que tivesse alguma relação com água. Ela gosta do conceito de um Pirata, então decide ficar com a Dama e nomeia seu personagem de _Antares, a Corsária_. 
 
 <div class="well">
     **Varie os naipes:**
