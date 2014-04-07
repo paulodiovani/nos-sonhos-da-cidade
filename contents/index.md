@@ -13,8 +13,12 @@ template: default-jumbo.jade
 
 <br>
 
-> Lembrou muito os filmes do Del Toro, 
->
-> mais um ótimo game nacional em breve.
+> Lembrou muito os filmes do Del Toro.
 >
 > -- Klos Cunha
+
+<br>
+
+> Cara... Eu vi Dark City e Silent Hill neste teu projeto.
+>
+> -- Jairo Borges Filho
