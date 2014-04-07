@@ -41,6 +41,18 @@ Eis as minhas escolhas.
 
     Usei esta meta na construção da Cidade e dos Pesadelos, com o propósito de trazer lugares e problemas reais para o jogo. Esta construção não é presente apenas no início de um jogo, mas no início de cada nova sessão.
 
+# As três perguntas de Jared Sorensen
+
+Eu não havia respondido estar perguntas inicialmente porque achava que já tinha as respostas, mas conforme fui fazendi _playtests_ e notando os pondos de melhoria do jogo, vi que precisava delas para esclarecer melhor _o que_ e _como_ é _Nos sonhos da cidade_.
+
+1. Sobre o que é seu jogo?
+
+Um jogo narrativo sobre descobrimento e perigo absoluto num cenário de horror surreal.
+
+2. Como seu jogo garante que isso aconteça?
+
+3. Que comportamentos seu jogo recompensa?
+
 # Inspirações e referências
 
 Minhas insírações para a criação deste jogo, que também podem servir de inspiração para mestres ensandecidos que desejem testar meu jogo.
