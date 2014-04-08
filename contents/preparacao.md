@@ -45,7 +45,7 @@ Vamos detalhar melhor dos dois baralhos de jogo.
 
 ## Naipes e seus significados
 
-Cada naipe representa um tipo de ambiente dentro do jogo. Para os PJs, este ambiente tem haver com a ocupação do personagem, para as áreas da cidade, representa o ambiente desta área.
+Cada naipe representa um tipo de ambiente dentro do jogo. Para os PJs, este ambiente tem a ver com a ocupação do personagem, para as áreas da cidade, representa o ambiente predominante nesta área.
 
 <table class="table table-bordered">
     <thead>
