@@ -19,7 +19,7 @@ O processo de _Construção da cidade_, tem por objetivo criar uma versão onír
 
 ## Construção das áreas da cidade
 
-Há esta altura (após a criação de personagens) cada jogador deverá ter uma carta do **Baralho de construção** sobrando em sua mão. O MJ, se ainda não o tiver feito, deve comprar agora uma carta do mesmo baralho.
+A essa altura (após a criação de personagens) cada jogador deverá ter uma carta do **Baralho de construção** sobrando em sua mão. O MJ, se ainda não o tiver feito, deve comprar agora uma carta do mesmo baralho.
 
 Cada jogador, incluindo o MJ deve colocar na mesa a sua carta que sobrou do **Baralho de Construção** virada para cima, adjacente à outra carta já colocada na mesa (se houver). Então este jogador deverá descrever que área é aquela, notando o naipe da carta.
 

@@ -196,7 +196,7 @@ Em histórias mais longas, como Campanhas, o Mapa da cidade deve crescer bastant
 
 Embora o mapa da cidade indique a localização de uma área em realação as outras, não é obrigatório considerar este posicionamento durante a narrativa.
 
-No nosso exemplo, para que os PJs fosse da _Escola abandonada_ até a área identificada como _Há peixes no estacionamento!_ deveriam passar primeiro pelo _Hospital macabro_...
+No nosso exemplo, para que os PJs fossem da _Escola abandonada_ até a área identificada como _Há peixes no estacionamento!_ deveriam passar primeiro pelo _Hospital macabro_...
 
 Num caso como este, minha dica é: Considere as áreas que devem ser passadas, **apenas se forem relevantes para a história**. Se uma área que esteja no caminho de seu destino puder fornecer algo interessante para a história, então narre a passagem dos PJs também por esta área, mas se esta passagem for demorada e frustrante, apenas deixe para lá e chegue logo no destino.
 
